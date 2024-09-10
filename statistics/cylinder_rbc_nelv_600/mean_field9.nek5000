@@ -1,0 +1,4 @@
+filetemplate:         mean_field%01d.f%05d
+firsttimestep:     9
+numtimesteps:     5
+type: binary
