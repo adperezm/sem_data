@@ -1,0 +1,4 @@
+filetemplate:         field%01d.f%05d
+firsttimestep:   801
+numtimesteps:   401
+type: binary
